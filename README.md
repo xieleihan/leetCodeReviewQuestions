@@ -3,7 +3,7 @@
 # leetCodeReviewQuestions
 
 自己刷题记录仓库
-1. **两数之和***
+1. **两数之和**
 
    ```javascript
    
@@ -27,7 +27,7 @@
        return a;
    }
    ```
-2. 接雨水
+2. **接雨水**
    ```javascript
    /**
     * @param {number[]} height

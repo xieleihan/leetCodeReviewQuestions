@@ -62,10 +62,10 @@
 3. **三数之和**
    ```javascript
    /**
- * @param {number[]} nums
- * @return {number[][]}
- */
-var threeSum = function(nums) {
+    * @param {number[]} nums
+    * @return {number[][]}
+    */
+   var threeSum = function(nums) {
     nums.sort((a, b) => a - b); // 将数组排序
     const result = [];
 
